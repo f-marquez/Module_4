@@ -24,18 +24,18 @@ Repeat the school district analysis you did in this module, and recreate the fol
 - The average reading score for each grade level from each school
 - The scores by school spending per student, by school size, and by school type
   
-  ## Deliverable 3: A written report for the school district analysis (README.md)
+ ## Deliverable 3: A written report for the school district analysis (README.md)
   
 # Summary:
 
-## Thomas High School Scores
+  ## Thomas High School Scores
    -  Math and reading scores for ninth graders at Thomas High School were updated with 'NaN'
 
-## Thomas High School math scores:
+  ## Thomas High School math scores:
   - Ninth grade math scores were replaced with NaN. 
   - Thomas High School 10th, 11th, and 12th grade math scores are as follows: 83.1, 83.5, and 83.5.
 
-## Thomas High School reading scores:
+  ## Thomas High School reading scores:
   - Ninth grade math scores were replaced with NaN. 
   - Thomas High School 10th, 11th, and 12th grade reading scores are: 84.3, 83.6, and 83.8.
 
@@ -45,20 +45,20 @@ Repeat the school district analysis you did in this module, and recreate the fol
     - Wright High School moved into the top 5 high schools in the district
 - Bottom 5 high schools were unaffected
 
-## Removing 9th grade student scores from Thomas High School affected other reports:
-- Thomas High School had no data to report for 9th grade math and reading scores
+## How removing student scores affected other reports:
+- **Thomas High School had no data to report for 9th grade math and reading scores**
 
-- Scores by school spending chaged around the $601-650 range:
+- **Scores by school spending chaged around the $601-650 range:**
      - Percentage passing math dropped from 73% to 67%
      - Percentage passing reading dropped from 84% to 77%
      - Overall passing percentage dropped from 63% to 56%
      
-- Scores by school size (medium-sized schools, 1000-2000)
+- **Scores by school size (medium-sized schools, 1000-2000)**
      - Percentage passing math dropped from 94% to 85%
      - Percentage passing reading dropped from 97% to 91%
      - Overall passing percentage dropped from 91% to 85%
      
-- Scores by schools type:
+- **Scores by schools type:**
      - Percentage passing math dropped from 94% to 90%
      - Percentage passing reading dropped from 97% to 93%
      - Overall passing percentage dropped from 90% to 87%
